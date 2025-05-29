@@ -16,11 +16,11 @@ function App() {
       <main>
         <LandingSection />
         <Stack />
-        <h2>My React Projects</h2>
+        <h2 id='projects-section'>My React Projects</h2>
         <section className='projects'>
           <Project data={projects} />
         </section>
-        <h2>Contact me</h2>
+        <h2 id='contact-section'>Contact me</h2>
         <FormSection />
       </main>
       <Footer/>

@@ -1,7 +1,7 @@
 export default function Stack() {
   return (
     <section className="stack-section">
-      <h2>My Technologies Stack</h2>
+      <h2 id="stack-section">My Technologies Stack</h2>
       <div className="stacks">
         <img src="https://img.shields.io/badge/Html5-e34f26.svg?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=e34f26" alt="badge" />
         <img src="https://img.shields.io/badge/CSS3-2965f1.svg?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=2965f1" alt="badge" />
