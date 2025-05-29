@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "img":{
+      "src": "React_Travel_Journal_.jpg",
+      "alt": "travel journal project"
+    }, 
+    "title": "React Travel Journal",
+    "description": "Project that shows a travel journal",
+     "linkProject": "https://ramirezjm.github.io/React_Travel_Journal/", 
+     "linkCode": "https://github.com/RamirezJM/React_Travel_Journal"
+  },
+  {
+    "id": 2,
+    "img":{
+      "src": "React_Tenzies_Game_.jpg",
+      "alt": "tenzies games project"
+    }, 
+    "title": "React Tenzies Game",
+    "description": "Tenzies dice game project",
+     "linkProject": "https://ramirezjm.github.io/React_Tenzies_Game/", 
+     "linkCode": "https://github.com/RamirezJM/React_Tenzies_Game"
+  },
+  {
+    "id": 3,
+    "img":{
+      "src": "React_Meme_Generator_.jpg",
+      "alt": "meme generator project"
+    }, 
+    "title": "React Meme Generator",
+    "description": "Memes generator project, which allows you to choose an image and modify the top and bottom text.",
+     "linkProject": "https://ramirezjm.github.io/React_Meme_Generator/", 
+     "linkCode": "https://github.com/RamirezJM/React_Meme_Generator"
+  },
+  {
+     "id": 4,
+    "img":{
+      "src": "React_Guess_The_Word_.jpg",
+      "alt": "guess the word project"
+    }, 
+    "title": "React Guess The Word Game",
+    "description": "Guess the word game project.",
+     "linkProject": "https://ramirezjm.github.io/React_Guess_The_Word/", 
+     "linkCode": "https://github.com/RamirezJM/React_Guess_The_Word"
+  }
+]
